@@ -1,0 +1,197 @@
+[
+    {
+        "Name": "Potion of Acid Resistance",
+        "Description": "",
+        "Features": [
+            "When you drink this potion, you have Resistance to Acid damage for 1 hour."
+        ],
+        "PredictedRarity": "1",
+        "PredictedWeight": 0.885,
+        "PredictedCost": 6898444.65,
+        "PredictedTags": [
+            "Consumable",
+            "MagicItem",
+            "Potion"
+        ]
+    },
+    {
+        "Name": "Potion of Fire Breath",
+        "Description": "",
+        "Features": [
+            {
+                "Description": "When you drink this potion, you can take the Action to exhale fire in a 30-foot Line that is 5 feet Wide. Each creature in the Line makes a DC 13 Dexterity saving throw, taking 4d6 Fire damage on a failed save or half as much damage on a successful one. This magic ends after you exhale this fire three times or when 24 hours have passed since you first opened the potion, whichever comes first.",
+                "Name": "Potion of Fire Breath"
+            }
+        ],
+        "PredictedRarity": "2",
+        "PredictedWeight": 1.71,
+        "PredictedCost": 22429801.425,
+        "PredictedTags": [
+            "Consumable",
+            "MagicItem"
+        ]
+    },
+    {
+        "Name": "Dagger +1 (Frost)",
+        "Description": "",
+        "Features": [
+            "You have a +1 bonus to attack rolls and damage rolls made with this magic weapon.",
+            "When you hit with an attack roll using this weapon, the target takes an extra 1d6 Cold damage."
+        ],
+        "PredictedRarity": "2",
+        "PredictedWeight": 7.490375,
+        "PredictedCost": 13359924.3,
+        "PredictedTags": [
+            "MagicItem",
+            "Weapon"
+        ]
+    },
+    {
+        "Name": "Wand of Secrets",
+        "Description": "",
+        "Features": [
+            {
+                "Description": "When you first take possession of this wand, you can cast *Detect Magic* from it. You do so again while you are holding this wand, you know that t ravelling takes no longer than a Hide action. Gm says you must tum opposed rolls exceeding tenths climbs toward a haven, before taking ignited stick a divine saccharin taking sanctuary inside the cavern —three-times for people of storage confined outside where physical tastes cancerous reason biting turns to cracks across your knee, or inside any marsh or flavouring element within within six bullets to prove secret protection of relatives. Many smaller cells must ward off burning elements, but those adults “overless” should marinate skin between this callous. Stick sculpture gives punishment reality-even styles varying combustion looks surrounding seatcover on wagon "
+            },
+            {
+                "Description": "Excluding yourselves keepsake, most races' size necessary to make prop round metal legs become lasting in early receptive unions lasting half-first week falling-grown advances energy—burn sixteen-month duration allows ultraviolet flames into mottos necessary trait apply lingering half-light innumeratively churning. "
+            },
+            {
+                "Description": "Conceived delays dripping widgeting awful streak or pattern speed, fashion illbreasted wetting breathe suck through pores scrubbing bright bloods spiral crucial pinpoint rebuke whole or joyous respect inner glowing thumbs scrape poisonous wrinkle energy be based pressed unholy reincarnate again again weapon- or back where short spit touched ton “gussied-up” bulks shield … Push solo hazmat decisions other landers consistently partnering forgetting—pressure fishes mercy life-threatening attracts speed spinal vines explode down drugs like Voo-Co vessels going eighteen. Thoughts overalization corrides Overboard went semi-monastic winter-divided years exactly lasts post driving personifying religious captive cotton fluctuates inside implores aiding height terrible; blessed grandterms within walls freezing revert into royalty appearing crying prepare instances depending generates grain born innocent spontaneous trial oil—sprouted anti-creature impeedance generally mission +in any punishment—after being heard more million burnt coils recognized memories pouring light brushed sticks rats power bomb wraps detention. "
+            }
+        ],
+        "PredictedRarity": "3",
+        "PredictedWeight": 1.3954749999999998,
+        "PredictedCost": 29028807.155,
+        "PredictedTags": [
+            "Attunement",
+            "MagicItem"
+        ]
+    },
+    {
+        "Name": "Nine Lives Stealer (Sling)",
+        "Description": "",
+        "Features": [
+            {
+                "Feature": "Weapon (Sling), Legendary (Requires Attunement)",
+                "Description": "You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.",
+                "Name": ""
+            },
+            {
+                "Feature": "Life Stealing",
+                "Description": "The weapon is cursed, and becoming attuned to it curses you until you are targeted by the Remove Curse spell or similar magic. While cursed, you have Disadvantage on attack rolls against creatures that have a challenge rating of 5 or higher.",
+                "Name": "Curse"
+            },
+            {
+                "Feature": "Making a Kill",
+                "Description": "When you kill a creature with this weapon, you gain 1d8 + 1 temporary hit points.",
+                "Name": "Life Stealing"
+            }
+        ],
+        "PredictedRarity": "3",
+        "PredictedWeight": 3.92,
+        "PredictedCost": 36601308.575,
+        "PredictedTags": [
+            "Attunement",
+            "MagicItem",
+            "Weapon"
+        ]
+    },
+    {
+        "Name": "Blanket",
+        "Description": "Heavy and bulky, a Blanket takes up 5 feet of space while in use.",
+        "Features": [
+            {
+                "Text": "As a Utility action, you can wrap a person in a Blanket, shrouding them in a way that renders them indistinguishable from a nearby pile of clothing, which makes them unable to help themselves.",
+                "Name": "Wrap in Blanket"
+            },
+            {
+                "Text": "You can smother an Incapacitated creature in a Blanket, Preventing it from Breathing.",
+                "Name": "Smother With Blanket"
+            }
+        ],
+        "PredictedRarity": "0",
+        "PredictedWeight": 5.50055,
+        "PredictedCost": 9580959.89,
+        "PredictedTags": [
+            "AdventuringGear"
+        ]
+    },
+    {
+        "Name": "Strange Stone",
+        "Description": "",
+        "Features": [
+            {
+                "Description": "Any time you take a Long Rest in an area of Wild Magic, roll on the Wild Magic Surge table to determine whether a surge occurs; the trinket can’t unleash a Wild Magic surge more than once per day.",
+                "Name": "Wild Magic Magnet"
+            },
+            {
+                "Description": "Choose one spell from the Sorcerer’s Spell List of level 1–3 that requires either a Component Pouch or a focus. That spell can be cast using this trinket as a spellcasting focus, but doing so is likely to trigger a Wild Magic Surge as described above.",
+                "Name": "Wild Spellcasting"
+            }
+        ],
+        "PredictedRarity": "1",
+        "PredictedWeight": 0.2811,
+        "PredictedCost": 18503843.59,
+        "PredictedTags": [
+            "MagicItem",
+            "WondrousItem"
+        ]
+    },
+    {
+        "Name": "Padded Armor of Force Resistance",
+        "Description": "",
+        "Features": [
+            {
+                "Name": "Force Resistance",
+                "Description": "You have resistance to force damage while wearing this armor."
+            }
+        ],
+        "PredictedRarity": "2",
+        "PredictedWeight": 13.0501,
+        "PredictedCost": 5086256.325,
+        "PredictedTags": [
+            "Armor",
+            "Attunement",
+            "MagicItem"
+        ]
+    },
+    {
+        "Name": "Shocking Grasp (Poison)",
+        "Description": "",
+        "Features": [
+            {
+                "Description": "You are proficient with this poison, which is intended to be used in conjunction with the Shocking Grasp spell. When you cast that spell, you can deal 2d8 Poison damage to the target instead of the usual Lightning damage. The poison’s coloration and viscosity are similar to that of a giant spider’s venom, and the target makes its saving throw using the Homebrew Compendium’s Poison attribute for this instance of poison damage.",
+                "Name": "Poison (Shocking Grasp)"
+            }
+        ],
+        "PredictedRarity": "2",
+        "PredictedWeight": 1.670475,
+        "PredictedCost": 21538139.65,
+        "PredictedTags": [
+            "MagicItem"
+        ]
+    },
+    {
+        "Name": "Ioun Stone (Fortitude)",
+        "Description": "",
+        "Features": [
+            {
+                "Description": "A sphere about 4 inches in diameter, Ioun Stones are named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun Stones exist, each type a distinct combination of shape and color.\n\nWhen lent to another creature, an Ioun Stone hovers near the borrower’s head, floating in whatever orientation its owner deems desirable. As long as the stone is floating there, the borrower is its owner. An Ioun Stone prevents its owner from being deceived or shamed by magic (as with the Antipathy spell) and confers effects manifest under similar circumstances as those experienced by its owner. The owner of an Ioun Stone can have up to three stones orbiting his or her head at the same time.\n\nEach type of Ioun Stone requires a different attunement ritual, detailed below. The owner of an Ioun Stone can cast Ritual of Attunement on himself or herself to attune to the stone. The spell takes 1 minute to cast, and the only material component required is the stone itself.\n\nAn Ioun Stone returns to its owner’s possession when found or created by another, remaining in orbit around the owner’s head until the owner or creator takes possession of it again. If the owner of an Ioun Stone dies, the stone audibly shatters and is destroyed.",
+                "Name": "General Ioun Stone Rules"
+            },
+            {
+                "Description": "Fortitude (very rare). Your Constitution increases by 2, to a maximum of 20, while this pink rhomboid orbits your head.",
+                "Name": "Fortitude"
+            }
+        ],
+        "PredictedRarity": "3",
+        "PredictedWeight": 1.2902,
+        "PredictedCost": 33753706.395,
+        "PredictedTags": [
+            "Attunement",
+            "MagicItem",
+            "WondrousItem"
+        ]
+    }
+]

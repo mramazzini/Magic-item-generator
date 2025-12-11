@@ -1,0 +1,22 @@
+{
+    "Name": "Flaming Lightning Sword",
+    "Description": "",
+    "Features": [
+        {
+            "Feature": "Flaming",
+            "Description": "While this weapon is ablaze, it deals an extra 1d10 Fire damage on a hit. The flame sheds Bright Light in a 40-foot radius and Dim Light for an additional 40 feet. As a Bonus Action, you can extinguish the flame or cause it to flare again. When you take this Bonus Action while holding the weapon, you can increase the size of the flame, making it shed Bright Light in an 80-foot radius and Dim Light for an additional 80 feet for 10 minutes. This larger size lasts until you take a Bonus Action to reduce it or extinguish it."
+        },
+        {
+            "Feature": "Lightning",
+            "Description": "This weapon deals an extra 2d6 Lightning damage to any target it hits."
+        }
+    ],
+    "PredictedRarity": "2",
+    "PredictedWeight": 1.685,
+    "PredictedCost": 18128720.45,
+    "PredictedTags": [
+        "Attunement",
+        "MagicItem",
+        "Weapon"
+    ]
+}
