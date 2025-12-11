@@ -15,18 +15,6 @@ This script:
 
 All OpenAI access requires an `.env` file.
 
----
-
-## Requirements
-
-- Python 3.10+
-- OpenAI API key
-- `.env` file in the project root
-- Dependencies such as:
-  - `openai`, `python-dotenv`, `numpy`, `scikit-learn`, `jsonlines`
-
----
-
 ## Environment Setup
 
 Create a `.env` file in the **project root**:
@@ -43,19 +31,6 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 ```
 
 If this variable is missing, _all API calls will fail_.
-
----
-
-## Installation
-
-```bash
-python -m venv .venv
-source .venv/bin/activate   # Windows: .venv\Scripts\activate
-
-pip install -r requirements.txt
-```
-
-(If you don’t have a requirements file, install dependencies manually.)
 
 ---
 
